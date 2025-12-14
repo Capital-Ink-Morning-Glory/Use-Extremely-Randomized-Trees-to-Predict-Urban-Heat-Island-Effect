@@ -1,2 +1,2 @@
 # Use-Extremely-Randomized-Trees-to-Predict-Urban-Heat-Island-Effect
-The work in the competition titled The 2025 EY Open Science AI and Data Challenge: Cooling Urban Heat Islands
+The work in the competition titled The 2025 EY Open Science AI and Data Challenge: Cooling Urban Heat Islands. The global rank is 179th, and the rank in Greater China is 6th.
